@@ -1,0 +1,2 @@
+# myAliases
+my .bashrc aliases
